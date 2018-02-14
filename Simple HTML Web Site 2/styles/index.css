@@ -1,0 +1,45 @@
+*{
+	margin:0;
+	padding: 0;
+}
+#mainSection h1 { 
+	font-size: 190%;
+	margin-bottom: .5em;
+	color:#004d00;
+	text-align: center;
+}
+
+#mainSection p {
+	margin-bottom: .5em;
+	margin-left: 1em;
+	
+}
+
+#mainSection img {
+	clear: both; 	
+	float: left;
+	border: 0px solid black;
+	border-radius: 5px;
+	
+}
+
+#mainSection {
+	padding: 15px 40px 20px 20px;
+}
+
+/*Article*/
+
+article {
+	padding: .5em 0;
+	display: block;
+}
+article h2 {
+	font-size: 115%;
+	padding: 0 0 .25em 0;
+}
+article img {
+	
+	margin: .5em 1em 1em 1em;
+	border: 1px solid black;
+}
+
